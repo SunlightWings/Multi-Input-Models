@@ -1,3 +1,5 @@
+**Multi-Input Model**
+
 The Omniglot dataset consists of:
 
   1. Image data
